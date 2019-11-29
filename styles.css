@@ -1,0 +1,35 @@
+.picture{
+      padding: 20px;
+      text-align: center;
+      background-color: lightblue
+}
+h1 {
+    text-align: center;
+    color: blue;
+    }
+.paragrs{
+    height: 270px;
+    width: 100%;
+    background-image: url(https://media.wired.com/photos/598e35fb99d76447c4eb1f28/master/pass/phonepicutres-TA.jpg)
+}
+img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    }
+
+table, th, td {
+  border: 1px solid black;
+}
+table{
+    width: 50%;
+    padding: center
+    }
+.tables{
+
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    }
